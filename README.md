@@ -35,4 +35,4 @@ The notebook and Python files provided here, once completed, result in a simple 
 ## 🎉🎈 Deep Learning Nano-Degree Certificate
 
 
-![Abdulrahman-Deep-Learning-Nano-Degree-Certificate]()
+![Abdulrahman-Deep-Learning-Nano-Degree-Certificate](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/40f48cb6-ea3e-40e5-964f-4bd0aef1e9d6.svg)
