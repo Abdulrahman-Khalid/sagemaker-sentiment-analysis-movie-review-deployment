@@ -1,3 +1,9 @@
+<div align="center">
+ 
+<img width="600px" src="https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/6O58LR2xUDUV0eLZcCVSRA/253842b5c9c794e788706211ca4d6cdc/image-syllabus-01.jpg">
+
+</div>
+
 <h3 align="center">✔ Deploying a Sentiment Analysis Model</h3>
 <div align="center">
 
