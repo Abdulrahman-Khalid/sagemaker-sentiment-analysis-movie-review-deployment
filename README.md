@@ -19,7 +19,7 @@ Become an expert in neural networks, and learn to implement them using the deep 
 This course is part of udacity deep learning nano-degree program in which you train and deploy your own PyTorch sentiment analysis model. Deployment gives you the ability to use a trained model to analyze new, user input. Build a model, deploy it, and create a gateway for accessing it from a website.
 -----------------------------------------------------------------------------------------------------------------------------
 ## 📝 About This Project
-# ✔ SageMaker Deployment Project
+### ✔ SageMaker Deployment Project
 
 The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
 -----------------------------------------------------------------------------------------------------------------------
