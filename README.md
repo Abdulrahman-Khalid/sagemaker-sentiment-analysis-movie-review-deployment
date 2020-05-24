@@ -39,7 +39,13 @@ model will be trained to do sentiment analysis on movie reviews
 create a gateway for accessing this model from a website.
 
 -----------------------------------------------------------------------------------------------------------------------
-## 🎉🎈 Deep Learning Nano-Degree Certificate
+## Screen Shots from The Application
 
+![bad_review](https://user-images.githubusercontent.com/35617547/82742935-4cdc0700-9d64-11ea-9eb1-763b53b7b609.png)
+![positive_review1](https://user-images.githubusercontent.com/35617547/82742969-ca077c00-9d64-11ea-8991-e728bdf6e523.png)
+![positive_review2](https://user-images.githubusercontent.com/35617547/82742971-cd026c80-9d64-11ea-8457-e3c4b005344a.png)
+
+-----------------------------------------------------------------------------------------------------------------------
+## 🎉🎈 Deep Learning Nano-Degree Certificate
 
 ![Abdulrahman-Deep-Learning-Nano-Degree-Certificate](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/40f48cb6-ea3e-40e5-964f-4bd0aef1e9d6.svg)
