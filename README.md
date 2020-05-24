@@ -39,7 +39,7 @@ model will be trained to do sentiment analysis on movie reviews
 create a gateway for accessing this model from a website.
 
 -----------------------------------------------------------------------------------------------------------------------
-## Screen Shots from The Application
+## :camera: Screen Shots from The Application
 
 ![bad_review](https://user-images.githubusercontent.com/35617547/82742935-4cdc0700-9d64-11ea-9eb1-763b53b7b609.png)
 ![positive_review1](https://user-images.githubusercontent.com/35617547/82742969-ca077c00-9d64-11ea-8991-e728bdf6e523.png)
